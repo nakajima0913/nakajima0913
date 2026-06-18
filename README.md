@@ -5,7 +5,7 @@ I'm a graduate student conducting cybersecurity research on malware behavior ana
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,php,c,postgres,docker,supabase,firebase,react,nextjs,sklearn,pytorch" />
+  <img src="https://skillicons.dev/icons?i=ts,python,php,javascript,c,postgres,docker,supabase,firebase,react,nextjs,sklearn,pytorch" />
 </p>
 
 ![GitHub Stats](./profile/stats.svg)
